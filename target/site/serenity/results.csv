@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"HU-002 Buscador aleatorio Walmart","Buscar palabra en  buscador de Walmart exitoso","SUCCESS","2021-06-12T15:03:27.377-05:00[America/Bogota]","0.0","56.09"
+"HU 003 BACKGOUND","Buscar el producto en el buscador de walmart","SUCCESS","2021-06-12T14:54:22.361-05:00[America/Bogota]","0.0","119.89"
+"HU-004 Buscador Fallido Walmart","Buscar palabra en el buscador de Walmart fallido sapo unicornio bravo","FAILURE","2021-06-12T14:56:34.477-05:00[America/Bogota]","0.0","58.98"
+"HU-001 Buscador Walmart","Buscar palabra en el buscador de Walmart exitoso Harry Potter Hard Cover Boxed Set","ERROR","2021-06-12T14:57:36.262-05:00[America/Bogota]","0.0","332.25"

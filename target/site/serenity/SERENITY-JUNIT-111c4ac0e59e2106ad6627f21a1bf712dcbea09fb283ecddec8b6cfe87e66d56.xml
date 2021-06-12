@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="HU-004 Buscador Fallido Walmart" skipped="0" tests="1" time="58.98" timestamp="2021-06-12 02:56:34"><testcase name="Buscar palabra en el buscador de Walmart fallido sapo unicornio bravo"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+task.BuscarProductoEnWalmart.performAs(BuscarProductoEnWalmart.java:18)&#13;
+stepDefinitions.BuscadorWalmartStepDefinitions.buscoDiferentesProductosEnElBuscador(BuscadorWalmartStepDefinitions.java:31)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
